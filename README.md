@@ -1,6 +1,6 @@
 ![Ezgi Erolsun](assests/profil.png)
 
-# Github Pages
+# Benim Hakkında
 
 Merhaba, ben Ezgi. Hisar Okullarında okuyorum ve Github sitemi projelerimi sergilemek için kullanacağım
 
