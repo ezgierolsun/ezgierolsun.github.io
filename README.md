@@ -2,7 +2,7 @@
 # About Me
 
 Hi, I'm Ezgi, I'm a 10th grader, over the course of this year I will be uploading my projects, documentations, codes and ideas here.
-- I love chemistry and literature
+- I like chemistry and literature
 - I'm taking AP CSP
 - Gmail: ezgi.erolsun@hisarschool.k12.tr
 
