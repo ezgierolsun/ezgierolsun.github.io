@@ -8,10 +8,10 @@ Hi, I'm Ezgi, I'm a 10th grader, over the course of this year I will be uploadin
 
 
 ## Projects
-[Project 1] My Scratch tic tac toe game: [You can play from clicking](https://scratch.mit.edu/projects/1212420929/editor/)
+[Project 1] My Scratch tic tac toe game: [You can access my game here](https://scratch.mit.edu/projects/1212420929/editor/)
 
 ## Documentation
-The documentation of my Scratch tic tac toe game: [You can check to my documentation by clicking](https://docs.google.com/document/d/17rNf7Jt4S1_mAA7Q6WPKTZenEk-C8mukZOwDmAHH1TA/edit?usp=sharing)
+The documentation of my Scratch tic tac toe game: [You can check to documentation here](https://docs.google.com/document/d/17rNf7Jt4S1_mAA7Q6WPKTZenEk-C8mukZOwDmAHH1TA/edit?usp=sharing)
 
 ## Swift Code
 
