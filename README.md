@@ -13,6 +13,8 @@ Hi, I'm Ezgi, I'm a 10th grader, over the course of this year I will be uploadin
 ## Documentation
 The documentation of my Scratch tic tac toe game: [You can check my documentation here](https://docs.google.com/document/d/17rNf7Jt4S1_mAA7Q6WPKTZenEk-C8mukZOwDmAHH1TA/edit?usp=sharing)
 
+My video summarising the unit: [Access by clicking](https://drive.google.com/file/d/1UXonaaiRNs0VRST45qWRMBsW2evNwKC1/view?usp=sharing) 
+
 ## Big Ideas
 [Big Idea 1] My written notes for Big Idea 1: there are a few topics that are crucial when it comes to creative development like collabration, program function and purpose, program design and development, identifying and correcting errors. 
 
